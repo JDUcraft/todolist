@@ -1,0 +1,20 @@
+{
+  "name": "cqrs-ecommerce",
+  "version": "1.0.0",
+  "description": "e-commerce features implemented in a cqrs / clean architecture way",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "JDUcraft",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^5.2.0",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jest": "^21.18.0",
+    "jest": "^23.4.1"
+  }
+}
